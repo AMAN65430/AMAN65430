@@ -1,51 +1,77 @@
+<!-- ========================= -->
+<!--        AMAN / README       -->
+<!-- ========================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,40:0f172a,70:0369a1,100:06b6d4&text=AMAN&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20WEB%20%7C%20AI%2FML&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AMAN&fontSize=72&fontAlignY=38&desc=SOFTWARE%20DEVELOPER&descAlignY=62&descSize=18&fontColor=ffffff&color=0:111827,45:312e81,100:0891b2&animation=fadeIn" width="100%"/>
 
 <br>
 
-# 💻 SOFTWARE DEVELOPER
+# `AMAN65430`
 
-### Building Web Applications • Database Systems • Machine Learning Solutions
+### Software Developer · Web Applications · AI/ML · Databases
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
+</p>
 
-<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=9b8cff"/>
-<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=ffe600"/>
-<img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=00d9ff"/>
+<p>
+  <a href="https://www.linkedin.com/in/aman-3a221230/">
+    <img src="https://img.shields.io/badge/LINKEDIN-312e81?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:guptaaman27154@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0891b2?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=AMAN65430&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AMAN65430&label=PROFILE%20VIEWS&color=312e81&style=flat-square"/>
 
 </div>
 
 ---
 
-<div align="center">
+## `01` — SYSTEM PROFILE
 
-## ⚡ BUILD • LEARN • GROW
+<table>
+<tr>
+<td width="58%">
 
-### Turning ideas into practical software solutions.
+### Building software that solves actual problems.
 
-</div>
+I'm a **Software Developer** focused on building:
 
----
+- Web-based applications
+- Database-driven systems
+- Backend & CRUD workflows
+- Admin dashboards
+- Machine-learning solutions
+- Practical frontend interfaces
 
-# 👋 Hi, I'm Aman
+My current development work involves **PHP, MySQL, PDO, JavaScript, HTML/CSS**, while my AI/ML experience includes **Python, Pandas, NumPy and Linear Regression**.
 
-I'm a **Software Developer** focused on building practical web applications, database-driven systems, and machine-learning solutions.
+</td>
 
-I enjoy turning ideas into working software and continuously improving my development skills through real-world projects.
+<td width="42%">
 
 ```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   💻 SOFTWARE DEVELOPMENT                                  ║
-║   🌐 WEB APPLICATIONS                                      ║
-║   🗄️ DATABASE SYSTEMS                                      ║
-║   🤖 MACHINE LEARNING                                      ║
-║   🔧 BACKEND & CRUD APPLICATIONS                           ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+┌───────────────────────────┐
+│       AMAN / DEV          │
+├───────────────────────────┤
+│                           │
+│  ROLE                     │
+│  Software Developer       │
+│                           │
+│  PRIMARY                  │
+│  Python / PHP             │
+│                           │
+│  DATABASE                 │
+│  MySQL / PDO              │
+│                           │
+│  DOMAIN                   │
+│  Web + AI/ML              │
+│                           │
+└───────────────────────────┘
