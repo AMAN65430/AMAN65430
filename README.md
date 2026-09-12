@@ -1,77 +1,12 @@
-<!-- ========================= -->
-<!--        AMAN / README       -->
-<!-- ========================= -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AMAN&fontSize=72&fontAlignY=38&desc=SOFTWARE%20DEVELOPER&descAlignY=62&descSize=18&fontColor=ffffff&color=0:111827,45:312e81,100:0891b2&animation=fadeIn" width="100%"/>
-
-<br>
-
-# `AMAN65430`
-
-### Software Developer · Web Applications · AI/ML · Databases
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4"/>
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/aman-3a221230/">
-    <img src="https://img.shields.io/badge/LINKEDIN-312e81?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:guptaaman27154@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0891b2?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=AMAN65430&label=PROFILE%20VIEWS&color=312e81&style=flat-square"/>
-
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AMAN65430&theme=holi&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AMAN65430&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AMAN65430&theme=holi&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AMAN65430&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## `01` — SYSTEM PROFILE
-
-<table>
-<tr>
-<td width="58%">
-
-### Building software that solves actual problems.
-
-I'm a **Software Developer** focused on building:
-
-- Web-based applications
-- Database-driven systems
-- Backend & CRUD workflows
-- Admin dashboards
-- Machine-learning solutions
-- Practical frontend interfaces
-
-My current development work involves **PHP, MySQL, PDO, JavaScript, HTML/CSS**, while my AI/ML experience includes **Python, Pandas, NumPy and Linear Regression**.
-
-</td>
-
-<td width="42%">
-
-```text
-┌───────────────────────────┐
-│       AMAN / DEV          │
-├───────────────────────────┤
-│                           │
-│  ROLE                     │
-│  Software Developer       │
-│                           │
-│  PRIMARY                  │
-│  Python / PHP             │
-│                           │
-│  DATABASE                 │
-│  MySQL / PDO              │
-│                           │
-│  DOMAIN                   │
-│  Web + AI/ML              │
-│                           │
-└───────────────────────────┘
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
