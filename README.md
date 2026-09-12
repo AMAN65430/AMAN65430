@@ -1,10 +1,18 @@
-# 👋 Hi, I'm Aman
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00111f,50:0066ff,100:00d9ff&height=220&section=header&text=Hi,%20I'm%20AMAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Building%20Real-World%20Solutions&descSize=18&descAlignY=58&descColor=9eeaff" width="100%"/>
+
+</div>
+
+<div align="center">
 
 ### 💻 Software Developer
 
-**Python • PHP • AI/ML • MySQL**
+**Python • PHP • JavaScript • AI/ML • MySQL**
 
-I'm a Software Developer focused on building web-based applications, database-driven systems, and machine-learning solutions.
+`Building web applications • Database Systems • Machine Learning`
+
+</div>
 
 ---
 
@@ -13,169 +21,124 @@ I'm a Software Developer focused on building web-based applications, database-dr
 - 💻 Software Developer at **Zuvano Technologies**
 - 🐍 Working with **Python, PHP, SQL, and JavaScript**
 - 🤖 Interested in **Machine Learning and AI**
-- 🗄️ Experienced with **MySQL and database-driven applications**
-- 🌐 Building web applications using **Flask, PHP, HTML, CSS, and JavaScript**
-- 🔧 Experienced in **CRUD operations, backend development, and admin panels**
-- 🎓 B.Tech in **Computer Science & Engineering (Data Science)**
-- 📍 Meerut, India
+- 🗄️ Experienced with **MySQL, PDO, CRUD and database systems**
+- 🌐 Building **web applications and admin panels**
+- 🎓 B.Tech Computer Science & Engineering (Data Science)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
-### 💻 Programming Languages
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Python-0b1f33?style=for-the-badge&logo=python&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/PHP-0b1f33?style=for-the-badge&logo=php&logoColor=9b8cff"/>
+<img src="https://img.shields.io/badge/JavaScript-0b1f33?style=for-the-badge&logo=javascript&logoColor=ffe600"/>
+<img src="https://img.shields.io/badge/SQL-0b1f33?style=for-the-badge&logo=mysql&logoColor=00d9ff"/>
+</p>
 
 ### 🌐 Web & Backend
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/HTML5-0b1f33?style=for-the-badge&logo=html5&logoColor=ff6b35"/>
+<img src="https://img.shields.io/badge/CSS3-0b1f33?style=for-the-badge&logo=css3&logoColor=00aaff"/>
+<img src="https://img.shields.io/badge/Flask-0b1f33?style=for-the-badge&logo=flask&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/PDO-0b1f33?style=for-the-badge&logo=php&logoColor=9b8cff"/>
+</p>
 
 ### 🤖 Data & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Pandas-0b1f33?style=for-the-badge&logo=pandas&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/NumPy-0b1f33?style=for-the-badge&logo=numpy&logoColor=4dabff"/>
+<img src="https://img.shields.io/badge/Linear%20Regression-0b1f33?style=for-the-badge&logo=scikitlearn&logoColor=ff9f1c"/>
+</p>
 
 ### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-0b1f33?style=for-the-badge&logo=git&logoColor=ff6b35"/>
+<img src="https://img.shields.io/badge/GitHub-0b1f33?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/VS%20Code-0b1f33?style=for-the-badge&logo=visualstudiocode&logoColor=00aaff"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| 🚀 Project | 🛠️ Technology | 📋 Description |
+|---|---|---|
+| 🏦 **Loan Management System** | Python • Flask • MySQL | Loan application and eligibility management |
+| 🏠 **House Price Prediction** | Python • ML • Pandas | House price prediction using Linear Regression |
+| 🗳️ **Face Recognition Voting** | Python • ML | Face-recognition based voting system |
+| 🎙️ **AI Text-to-Speech** | JavaScript • HTML • CSS | Converts text into spoken audio |
+| 🛒 **E-Commerce Website** | HTML • CSS • JavaScript | Responsive online shopping interface |
+| 🌸 **Flower Shop** | HTML • CSS • JavaScript | Responsive flower shop website |
 
 ---
 
 ## 💼 Experience
 
 ### Software Developer — Zuvano Technologies
-
 **Jul 2026 – Present | Noida, India**
 
-- Developing web-based software projects and database-driven applications.
-- Working with **PHP, MySQL, and PDO** for backend development.
-- Building forms, data-processing workflows, and CRUD functionality.
-- Developing and maintaining admin panels.
-- Working with HTML, CSS, and JavaScript for web interfaces.
-- Testing, debugging, and improving application functionality.
+- Developing web-based software and database-driven applications
+- Working with PHP, MySQL and PDO
+- Building forms, CRUD operations and admin panels
+- Working with HTML, CSS and JavaScript
+- Testing, debugging and improving applications
 
 ### AI/ML Engineer Intern — Ecotech Service
-
 **Sep 2025 – Oct 2025 | Lucknow, India**
 
-- Developed a **House Price Prediction** project using Python and Machine Learning.
-- Used **Pandas and NumPy** for data cleaning, preparation, and analysis.
-- Implemented **Linear Regression** for price prediction.
-- Worked on an **AI Text-to-Speech web application** using HTML, CSS, and JavaScript.
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 Loan Management System
-
-**Python • Flask • MySQL**
-
-A web-based loan management application designed to manage loan applications and eligibility evaluation.
-
-**Key Features:**
-
-- Loan application management
-- Loan eligibility evaluation
-- Flask backend
-- MySQL database integration
-- Admin panel
-- Application review and search
-- Approve / reject loan applications
-
----
-
-### 🌐 Website & Admin Panel
-
-**PHP • MySQL • PDO • JavaScript**
-
-A web-based project requirement submission system with database management and a protected administration panel.
-
-**Key Features:**
-
-- Project requirement submission
-- Database operations
-- PHP backend
-- MySQL integration
-- PDO
-- Password-protected admin panel
-- JavaScript-based interface functionality
-
----
-
-### 🏠 House Price Prediction
-
-**Python • Machine Learning • Pandas • NumPy**
-
-A machine-learning project for predicting house prices using **Linear Regression**.
-
-**Key Areas:**
-
-- Data cleaning
-- Data preparation
-- Data analysis
-- Machine learning model development
-- Linear Regression
-
----
-
-### 👤 Face Recognition Voting System
-
-**Python • Machine Learning**
-
-A project focused on using facial recognition for identification within a voting workflow.
-
----
-
-## 🎯 Current Focus
-
-- 🔹 Backend Development
-- 🔹 Python Development
-- 🔹 PHP & MySQL Applications
-- 🔹 Machine Learning
-- 🔹 Database-driven Systems
-- 🔹 Building practical software projects
+- Developed House Price Prediction using Python and Machine Learning
+- Used Pandas and NumPy for data preparation and analysis
+- Implemented Linear Regression for price prediction
+- Developed an AI Text-to-Speech web application
 
 ---
 
 ## 🎓 Education
 
-### B.Tech — Computer Science & Engineering (Data Science)
-
-**Meerut Institute of Engineering and Technology**
-
+**B.Tech — Computer Science & Engineering (Data Science)**  
+Meerut Institute of Engineering and Technology  
 **2022 – 2026**
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-3a221230b/)
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMAN65430)
+<img src="https://github-readme-stats.vercel.app/api?username=AMAN65430&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07111f&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" height="165"/>
 
-📧 **Email:** guptaaman27154@gmail.com
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AMAN65430&theme=tokyonight&hide_border=true&background=07111f&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="165"/>
 
----
-
-## 💡 Developer Quote
-
-> "Build practical solutions, keep learning, and improve every day."
+</div>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aman-3a221230/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AMAN65430">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Build. Learn. Grow.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0066ff,100:00111f&height=120&section=footer"/>
+
+</div>
